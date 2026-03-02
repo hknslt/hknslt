@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 - 🎓 **Academic:** Computer Engineering graduate from Kayseri University (GPA: 3.20/4.00)
-- 💼 **Experience:** Over 3 years of experience in mobile application development with Flutter[cite: 5]. Completed software development internships at the Ministry of Justice and KCETAŞ
+- 💼 **Experience:** Over 3 years of experience in mobile application development with Flutter. Completed software development internships at the Ministry of Justice and KCETAŞ
 - 🤖 **Data & AI:** Developed machine learning models and data processing scripts, including a data cleaning tool actively used by the Ministry of Justice.
 - 🌐 **IoT & Systems:** Built smart home and agricultural automation systems using ESP32, Arduino, and Firebase.
 
