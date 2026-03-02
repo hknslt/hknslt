@@ -27,9 +27,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hknslt&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hknslt&theme=dark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
 
 ---
 
