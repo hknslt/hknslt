@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/hikmethakansalt/](https://www.linkedin.com/in/hakan-salt/)">
+  <a href="https://www.linkedin.com/in/hakan-salt/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -15,10 +15,10 @@
 
 ### 🚀 About Me
 
--  🎓 **Academic:** Computer Engineering graduate from Kayseri University (GPA: 3.20/4.00)[cite: 41, 42, 44].
--  💼 **Experience:** Over 3 years of experience in mobile application development with Flutter[cite: 5].  Completed software development internships at the Ministry of Justice and KCETAŞ[cite: 20, 27].
--  🤖 **Data & AI:** Developed machine learning models and data processing scripts, including a data cleaning tool actively used by the Ministry of Justice[cite: 9, 10, 13].
--  🌐 **IoT & Systems:** Built smart home and agricultural automation systems using ESP32, Arduino, and Firebase[cite: 14, 52].
+- 🎓 **Academic:** Computer Engineering graduate from Kayseri University (GPA: 3.20/4.00)[cite: 41, 42, 44].
+- 💼 **Experience:** Over 3 years of experience in mobile application development with Flutter[cite: 5]. Completed software development internships at the Ministry of Justice and KCETAŞ[cite: 20, 27].
+- 🤖 **Data & AI:** Developed machine learning models and data processing scripts, including a data cleaning tool actively used by the Ministry of Justice[cite: 9, 10, 13].
+- 🌐 **IoT & Systems:** Built smart home and agricultural automation systems using ESP32, Arduino, and Firebase[cite: 14, 52].
 
 ---
 
@@ -46,26 +46,26 @@
 ### 🏆 Featured Projects
 
 #### 🏛️ Data Processing & Automation
--  **Criminal Record Data Pipeline:** A Python script actively used by the Ministry of Justice to automatically detect and correct date format errors in criminal records[cite: 53, 54].
+- **Criminal Record Data Pipeline:** A Python script actively used by the Ministry of Justice to automatically detect and correct date format errors in criminal records[cite: 53, 54].
 - **SnapSheet:** A Python-based tool that extracts data from visual tables and converts it into Excel files.
 - **Crypto Trading Bot:** An automation tool utilizing AI APIs and RSI values for market analysis.
 
 #### 📱 Mobile Solutions (Flutter)
 - **Satış Temsilcim:** A CRM application providing location tracking, customer visits, and contract management for sales representatives.
--  **Buzzly:** A modern social media application supporting post, follow, and comment functions with Firebase integration[cite: 57, 58].
--  **Inventory Tracker:** An SQLite-based inventory management application for tracking wheels and tires[cite: 55, 56].
--  **AI & Mini Games:** The Funbox multi-game platform and applications solving a $10\times10$ maze using the BFS algorithm[cite: 64, 65, 66].
+- **Buzzly:** A modern social media application supporting post, follow, and comment functions with Firebase integration[cite: 57, 58].
+- **Inventory Tracker:** An SQLite-based inventory management application for tracking wheels and tires[cite: 55, 56].
+- **AI & Mini Games:** The Funbox multi-game platform and applications solving a $10\times10$ maze using the BFS algorithm[cite: 64, 65, 66].
 
 #### 🌾 IoT & Machine Learning
--  **TarımApp:** A smart agricultural management application that transfers ESP32 sensor data to Firebase via a .NET API[cite: 51, 52].
--  **Smart Home Automation:** An IoT system using ESP8266, DHT11, PIR, and RFID modules for environmental monitoring and door security[cite: 59, 60].
--  **Grade Prediction Model:** A machine learning model predicting make-up exam grades using KNN, Linear Regression, and Random Forest algorithms (Python & scikit-learn)[cite: 62, 63].
+- **TarımApp:** A smart agricultural management application that transfers ESP32 sensor data to Firebase via a .NET API[cite: 51, 52].
+- **Smart Home Automation:** An IoT system using ESP8266, DHT11, PIR, and RFID modules for environmental monitoring and door security[cite: 59, 60].
+- **Grade Prediction Model:** A machine learning model predicting make-up exam grades using KNN, Linear Regression, and Random Forest algorithms (Python & scikit-learn)[cite: 62, 63].
 
 ---
 
 ### 📫 Contact
 
--  📩 **Email:** [hikmethakansalt@gmail.com](mailto:hikmethakansalt@gmail.com) [cite: 3]
+- 📩 **Email:** [hikmethakansalt@gmail.com](mailto:hikmethakansalt@gmail.com) [cite: 3]
 - 💼 **LinkedIn:** [Hikmet Hakan Salt](https://www.linkedin.com/in/hikmethakansalt/)
 
 <p align="center">🚀 <i>"Learning, Building, and Scaling..."</i></p>
